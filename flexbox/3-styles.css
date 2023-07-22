@@ -374,7 +374,7 @@
  .section-latest-news .row {
     flex-direction: row-reverse;
  }
- /* Section SERVICES ============================= */
+  /* Section SERVICES ============================= */
  .row{
   flex-wrap: wrap;
  }
