@@ -377,8 +377,7 @@
  /* Section SERVICES ============================= */
  .row{
   flex-wrap: wrap;
-}
-
+ }
   /*** 4. CARD ***/
   
   /* Card (all styles)
@@ -390,9 +389,7 @@
   
   /* Card WORK
       ============================= */
-  .row{
-    flex-wrap: wrap;
-  }
+  
   .card-work .card-outer {
     position: relative;
     overflow: hidden;
