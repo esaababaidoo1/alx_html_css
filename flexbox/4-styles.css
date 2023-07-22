@@ -192,7 +192,7 @@
   
   
   [class*='col-'] {
-    padding: margin 1 rem
+    padding: margin: -1rem
   }
   
   .col-1-3 {
